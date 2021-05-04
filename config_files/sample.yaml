@@ -1,0 +1,7 @@
+# This file is a sample of the config.yaml file you will need to create
+# This file will hold key secrets that you will not want to put into production
+# code or make generally available to the snoops and odd people who live on
+# the internet.
+
+AGENT_NAME: "who are you?  provide contact email"
+AGENT_PROJ: "what is your website or git project URL"
